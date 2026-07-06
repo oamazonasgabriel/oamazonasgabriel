@@ -2,7 +2,7 @@
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=oamazonasgabriel.oamazonasgabriel" alt="visitors" />
 
-> *Learning by Building*
+> *Learning by Building; Building by Learning*
 
 ---
 
@@ -57,15 +57,6 @@ I'm passionate about the intersection of **Data Engineering**, **AI/ML**, and **
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oamazonasgabriel&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oamazonasgabriel&layout=compact&langs_count=7&theme=radical" />
-</p>
 
 ---
 
